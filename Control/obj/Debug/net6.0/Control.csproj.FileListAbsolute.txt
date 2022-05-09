@@ -1,0 +1,15 @@
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\bin\Debug\net6.0\Control.exe
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\bin\Debug\net6.0\Control.deps.json
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\bin\Debug\net6.0\Control.runtimeconfig.json
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\bin\Debug\net6.0\Control.dll
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\bin\Debug\net6.0\Control.pdb
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.dll
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\refint\Control.dll
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.pdb
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\Control.genruntimeconfig.cache
+C:\Репозиторий\Control\Test-basic-Familiarity-with-IT-\Control\obj\Debug\net6.0\ref\Control.dll
